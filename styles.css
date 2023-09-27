@@ -10,11 +10,12 @@
 #card>input{
 	background-color:#CD5C5C;
 	color:white;
-	border-radius:20px;
+	border-radius:15px;
 	padding:25px;
 	font-size:30px;
 	margin-bottom:50px;
 	border:none;
+	font-weight:bold;
 }
 #card>h1{
 	font-size:55px;
