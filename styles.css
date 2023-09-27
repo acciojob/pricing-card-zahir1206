@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+#card{
+	background-color:#DCDCDC;
+	text-align:center;
+	margin:120px;
+	shadow:20px 20px 20px 20px
+	
+	
+}
+#card>input{
+	background-color:crimson;
+	color:white;
+	border-radius:20px;
+	padding:25px;
+	font-size:30px;
+	margin-bottom:50px;
+}
+#card>h1{
+	font-size:55px;
+	margin-top:0;
+	font-weight:bold;
+	
+}
+#card>img{
+	width:300px;
+	padding-top:40px
+		
+}
+#card>h3{
+	font-size:20px	
+}
+
