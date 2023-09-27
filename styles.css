@@ -3,17 +3,18 @@
 	background-color:#DCDCDC;
 	text-align:center;
 	margin:120px;
-	shadow:20px 20px 20px 20px
+	box-shadow: 2px 2px #DCDCDC;
 	
 	
 }
 #card>input{
-	background-color:crimson;
+	background-color:#CD5C5C;
 	color:white;
 	border-radius:20px;
 	padding:25px;
 	font-size:30px;
 	margin-bottom:50px;
+	border:none;
 }
 #card>h1{
 	font-size:55px;
@@ -26,7 +27,7 @@
 	padding-top:40px
 		
 }
-#card>h3{
+#card>p{
 	font-size:20px	
 }
 
